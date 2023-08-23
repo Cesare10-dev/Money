@@ -7,7 +7,7 @@ import { AnimatePresence, motion } from "framer-motion";
 import clsx from "clsx";
 import { features } from "./FrameView";
 import CircleBackground from "./CircleBackground";
-import PhoneFrame from "./PhoneFrame";
+import PhoneFrame from "./Phoneframe";
 
 const usePrevious = (value) => {
   let ref = useRef();

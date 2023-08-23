@@ -6,8 +6,8 @@ import { BsPlayCircle } from "react-icons/bs";
 import playStore from "@/images/playStore.png";
 import ExtraLogos from "./ExtraLogos";
 import BackgroundDesign from "./BackgroundDesign";
-import PhoneFrame from "./PhoneFrame";
 import AppFeature from "./AppFeature";
+import PhoneFrame from "./Phoneframe";
 
 const Hero = () => {
   return (
